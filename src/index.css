@@ -1,0 +1,23 @@
+@import "tailwindcss";
+/* Custom scrollbar styling */
+::-webkit-scrollbar {
+  height: 8px;
+  width: 8px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #e50914;
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #000;
+}
+
+@layer base {
+  body {
+    font-family: "Arial", sans-serif;
+    background-color: #111;
+    color: #fff;
+  }
+}
