@@ -71,9 +71,6 @@ The **TV Schedule App** is a React-based web application that fetches and displa
   - Ensure the API endpoint is correct in `.env`.
   - Clear IndexedDB storage and refresh.
 
-## Contributing
-
-Feel free to fork and contribute!
 
 ## License
 
